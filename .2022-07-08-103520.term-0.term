@@ -1,0 +1,7 @@
+(base) ]0;~/Project/github_sites/Eiko[01;34m~/Project/github_sites/Eiko[00m$ git init
+Initialized empty Git repository in /projects/39b268b1-0e75-4ebd-9cf2-691243b37f4a/Project/github_sites/Eiko/.git/
+(base) ]0;~/Project/github_sites/Eiko[01;34m~/Project/github_sites/Eiko[00m$ touch README.md
+(base) ]0;~/Project/github_sites/Eiko[01;34m~/Project/github_sites/Eiko[00m$ echo([K 'some message' > Read[K[K[KEADME.md
+(base) ]0;~/Project/github_sites/Eiko[01;34m~/Project/github_sites/Eiko[00m$ car [K[Kt README.md
+some message
+(base) ]0;~/Project/github_sites/Eiko[01;34m~/Project/github_sites/Eiko[00m$ git in^D[K[K[K[Kadd - A[K[KA
