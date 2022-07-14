@@ -5,3 +5,36 @@ Initialized empty Git repository in /projects/39b268b1-0e75-4ebd-9cf2-691243b37f
 (base) ]0;~/Project/github_sites/Eiko[01;34m~/Project/github_sites/Eiko[00m$ car [K[Kt README.md
 some message
 (base) ]0;~/Project/github_sites/Eiko[01;34m~/Project/github_sites/Eiko[00m$ git in^D[K[K[K[Kadd - A[K[KA
+(base) ]0;~/Project/github_sites/Eiko[01;34m~/Project/github_sites/Eiko[00m$ ^C
+(base) ]0;~/Project/github_sites/Eiko[01;34m~/Project/github_sites/Eiko[00m$ git commit -m 'firstr c[K[K[K[K c[K[Kt commit'
+[master (root-commit) faeb32c] first commit
+ 3 files changed, 8 insertions(+)
+ create mode 100644 .2022-07-08-103520.term-0.term
+ create mode 100644 2022-07-08-103520.term
+ create mode 100644 README.md
+(base) ]0;~/Project/github_sites/Eiko[01;34m~/Project/github_sites/Eiko[00m$ git remote add origin https://github.com/Tefrin/Tefrin.github.iogit remote add origin https://github.com/Tefrin/Tefrin.github.io.git[K[K[K[K[K[K[K[K[K[K[K[K^C
+(base) ]0;~/Project/github_sites/Eiko[01;34m~/Project/github_sites/Eiko[00m$ git remote add origin https://github.com/Tefrin/Tefrin.github.io.git
+(base) ]0;~/Project/github_sites/Eiko[01;34m~/Project/github_sites/Eiko[00m$ git branch - [KM main
+(base) ]0;~/Project/github_sites/Eiko[01;34m~/Project/github_sites/Eiko[00m$ git puc[Ksh
+fatal: The current branch main has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin main
+
+(base) ]0;~/Project/github_sites/Eiko[01;34m~/Project/github_sites/Eiko[00m$ git push --set-upstream origin main
+Username for 'https://github.com': Tefrin
+Password for 'https://Tefrin@github.com': 
+Enumerating objects: 5, done.
+Counting objects:  20% (1/5)Counting objects:  40% (2/5)Counting objects:  60% (3/5)Counting objects:  80% (4/5)Counting objects: 100% (5/5)Counting objects: 100% (5/5), done.
+Delta compression using up to 2 threads
+Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
+Writing objects:  20% (1/5)Writing objects:  40% (2/5)Writing objects:  60% (3/5)Writing objects:  80% (4/5)Writing objects: 100% (5/5)Writing objects: 100% (5/5), 545 bytes | 545.00 KiB/s, done.
+Total 5 (delta 0), reused 0 (delta 0)
+To https://github.com/Tefrin/Tefrin.github.io.git
+ * [new branch]      main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+(base) ]0;~/Project/github_sites/Eiko[01;34m~/Project/github_sites/Eiko[00m$ git push
+Username for 'https://github.com': Tefrin
+Password for 'https://Tefrin@github.com': 
+Everything up-to-date
+(base) ]0;~/Project/github_sites/Eiko[01;34m~/Project/github_sites/Eiko[00m$ (base) ]0;~/Project/github_sites/Eiko[01;34m~/Project/github_sites/Eiko[00m$ 
